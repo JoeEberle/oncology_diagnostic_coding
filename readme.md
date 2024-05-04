@@ -38,4 +38,4 @@ To get started with the **Oncology Diagnostic Coding** solution repository, foll
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](oncology_diagnostic_coding.png)  <br>![additional_image](oncology_epidemiology.png)  <br>
+    ## Deliverables or Figures![additional_image](oncology_diagnostic_coding.png)  <br>![additional_image](oncology_epidemiology.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
