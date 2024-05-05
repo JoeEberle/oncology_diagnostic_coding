@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Oncology Diagnostic Coding - Define and classify diagnosis for all forms of cancer.
 Define and classify diagnosis for all forms of cancer.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Oncology Diagnostic Coding** - an example for your pro
 Define and classify diagnosis for all forms of cancer.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
