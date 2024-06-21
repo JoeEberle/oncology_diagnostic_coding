@@ -34,7 +34,6 @@ To get started with the **Oncology Diagnostic Coding** solution repository, foll
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
  ![additional_image](oncology_diagnostic_coding.png)  <br>![additional_image](oncology_epidemiology.png)  <br>
