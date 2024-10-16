@@ -39,11 +39,8 @@ To get started with the **Oncology Diagnostic Coding** solution repository, foll
  ![additional_image](oncology_diagnostic_coding.png)  <br>![additional_image](oncology_epidemiology.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
